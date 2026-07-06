@@ -1,0 +1,5 @@
+Generated a password
+Asked for a joke
+Asked for weather
+Used calculator
+Quit the program
